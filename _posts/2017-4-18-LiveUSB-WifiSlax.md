@@ -3,7 +3,7 @@ layout: post
 title: Creació LiveUSB de WifiSlax - Guia Bàsica
 ---
 
-En primer lloc, caldrà descarregar l'última versió de la imatge .iso de la distribució. Ho podeu fer des dels següents enllaços: [64 bit](http://www.wifislax.com/category/wifislax-64bits/download-wifislax-x64/) / [32bit](http://www.wifislax.com/category/download/versiones-anteriores/)
+En primer lloc, caldrà descarregar l'última versió de la imatge .iso de la distribució. Ho podeu fer des dels següents enllaços: [64 bits](http://www.wifislax.com/category/wifislax-64bits/download-wifislax-x64/) / [32 bits](http://www.wifislax.com/category/download/versiones-anteriores/)
 
 Necessitarem un pendrive USB de 4GB com a mínim.
 
