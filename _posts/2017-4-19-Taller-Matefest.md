@@ -32,5 +32,5 @@ Disposarem d'alguns pendrives USB ja preparats per si algú dels qui vulguen par
 Per tal de poder tenir una previsió de les persones interessades a venir, així com aquelles que vulgueu participar de la part pràctica, és imprescindible que formalitzeu la vostra inscripció emplenant el següent formulari.
 
 <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="https://docs.google.com/forms/d/e/1FAIpQLSeLoLR_DY-1plWzgDPL32vujMv4AhFCZi21N57aXxsV4e4sVQ/viewform?embedded=true"></iframe>
+  <iframe class="embed-responsive-item" src="https://docs.google.com/forms/d/e/1FAIpQLSeLoLR_DY-1plWzgDPL32vujMv4AhFCZi21N57aXxsV4e4sVQ/viewform?hl=ca&embedded=true"></iframe>
 </div>
