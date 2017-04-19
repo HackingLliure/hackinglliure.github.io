@@ -20,7 +20,7 @@ Al mateix temps però, durant les diferents demostracions, es convidarà a totho
 ## Material per a la part pràctica
 Per a la realització de la part pràctica s'usarà un liveUSB amb l'última versió de la distribució GNU/Linux WifiSlax. Hauria de servir qualsevol distribució GNU/Linux amb la suite *aircrack-ng* i *reaver* correctament instal·lats. Tanmateix, recomanem l'ús d'una distribució live, en particular WifiSlax, que ve amb eines i drivers preinstal·lats i configurats per defecte.
 
-Teniu a continuació una [Guia bàsica de creació d'un liveUSB de WifiSlax](/LiveUSB-WifiSlax/).
+Teniu aquí una [Guia bàsica de creació d'un liveUSB de WifiSlax](/LiveUSB-WifiSlax/).
 
 En resum, totes aquelles persones que vulguen participar en la part pràctica necessitaran:
 * Ordinador portàtil (propi)
