@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Taller Matefest 2017 - Inscripcions
+subtitle: Dimecres 27 d'abril - 18:00h - Aula B7 (Facultat de Matemàtiques i Informàtica, UB)
 ---
 
 ## Introducció
