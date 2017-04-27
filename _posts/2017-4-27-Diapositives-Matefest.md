@@ -1,9 +1,9 @@
 ---
-layout:post
-title:Diapositives Taller Wifi
+layout: post
+title: Diapositives Taller Wifi
 ---
 
-<p>A continuació teniu disponibles les diapositives utilitzades durant el taller d'Auditoria de Xarxes Wifi fet el 26/4/2017, amb motiu de la Matefest-Infofest 2017. </p>
+<p>A continuació teniu disponibles les diapositives utilitzades durant el taller d'Auditoria de Xarxes Wifi fet el 26/4/2017, amb motiu de la Matefest-Infofest 2017. Estigueu atents, en els següents dies publicarem més material sobre els temes tractats.</p>
 
 
 <div class="embed-responsive embed-responsive-4by3">
