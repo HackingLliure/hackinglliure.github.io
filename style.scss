@@ -160,9 +160,7 @@ img {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
-  @include mobile {
-    text-align: center;
-  }
+  text-align: center;
 }
 
 .site-avatar {
@@ -183,7 +181,7 @@ img {
 }
 
 .site-info {
-  float: left;
+  text-align: center;
 
   @include mobile {
     float: none;
@@ -203,6 +201,8 @@ img {
 }
 
 .site-description {
+  text-align: center;
+  
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
@@ -213,8 +213,8 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 20px;
+  text-align: center; 
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -227,6 +227,7 @@ nav {
 
   a {
     margin-left: 20px;
+    &:first-child { margin-left: 0px; }
     color: $darkGray;
     text-align: right;
     font-weight: 300;
@@ -234,8 +235,8 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
+    color: $blue;
   }
 }
 
@@ -289,3 +290,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+@import "custom";
