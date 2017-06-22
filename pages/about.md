@@ -17,4 +17,3 @@ Com associació organitzem xerrades, tallers i cursos en l’àmbit educatiu i p
 ## Qui en pot formar part?
 
 Ens adrecem principalment a estudiants i membres de la comunitat universitària. Tanmateix, qualsevol persona interessada en els objectius i activitats que plantegem hi és benvinguda.
-
