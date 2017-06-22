@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ""
+title: About
+hidden-title: true
 ---
 
 ## Què és Hacking Lliure?
