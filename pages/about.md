@@ -12,7 +12,7 @@ Hacking Lliure és una associació de Hacking Ètic i Seguretat Informàtica ges
 
 Els objectius primordials de l’associació són: conscienciar sobre la importància de la seguretat informàtica i el seu paper en la societat; estimular l’ús i la creació de programari lliure i de codi obert; i impulsar l’accés lliure i igualitari a la tecnologia.
 
-## Quin tipus d’accions i activitats organitzeu (proposeu) ?
+## Quin tipus d’accions i activitats organitzeu/proposeu?
 
 Com associació organitzem xerrades, tallers i cursos en l’àmbit educatiu i professional. Així mateix, proposem la participació en congressos i conferències sobre hacking i seguretat informàtica.
 
