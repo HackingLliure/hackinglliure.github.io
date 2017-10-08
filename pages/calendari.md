@@ -4,17 +4,19 @@ title: Calendari d'Activitats
 ---
 
 ## Pròximes
-### Trobada informal: Live Hacking & much more
-_Data_: XXXXXXXXXXXXXXXXX\\
-_Lloc_: XXXXXXXXXXXXXXXXX
+### Presentació curs 17/18: Live Hacking & trobada informal
+_Data_: Dimarts 10 d'Octubre de 2017 a les 13:15h\\
+_Lloc_: Aula B3 de la Facutat de Matemàtiques i Informàtica de la UB
 
-### Passwords I: Blablabla users
-_Data_: XXXXXXXXXXXXXXXXX\\
-_Lloc_: XXXXXXXXXXXXXXXXX
+### Gestió segura de contrasenyes I: Nivell Usuaris
+_Data_: A definir\\
+_Lloc_: A definir
 
-### Passwords II: Blablabla devs
-_Data_: XXXXXXXXXXXXXXXXX\\
-_Lloc_: XXXXXXXXXXXXXXXXX
+### Gestió segura de contrasenyes II: Nivell Desenvolupadors
+_Data_: A definir\\
+_Lloc_: A definir
+
+---
 
 ## Passades
 ### Taller: Auditoria de Xarxes WiFi (Matefest-Infofest 2017)
