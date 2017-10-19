@@ -6,7 +6,7 @@ title: Calendari d'Activitats
 ## Pròximes
 ### Gestió segura de contrasenyes I: Nivell Usuaris
 _Data_: Dimecres 25 d'Octubre de 2017 a les 12:15\\
-_Lloc_: Aula B3
+_Lloc_: Aula B3 de la Facultat de Matemàtiques i Informàtica de la UB
 
 ### Gestió segura de contrasenyes II: Nivell Desenvolupadors
 _Data_: A definir\\
