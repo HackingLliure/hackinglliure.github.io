@@ -4,17 +4,18 @@ title: Calendari d'Activitats
 ---
 
 ## Pròximes
-### Gestió segura de contrasenyes I: Nivell Usuaris
-_Data_: Dimecres 25 d'Octubre de 2017 a les 12:15\\
-_Lloc_: Aula B3 de la Facultat de Matemàtiques i Informàtica de la UB
 
 ### Gestió segura de contrasenyes II: Nivell Desenvolupadors
-_Data_: A definir\\
-_Lloc_: A definir
+_Data_: Finals de novembre d 2017\\
+_Lloc_: Facultat de Matemàtiques i Informàtica de la UB
 
 ---
 
 ## Passades
+### Gestió segura de contrasenyes I: Nivell Usuaris
+_Data_: Dimecres 25 d'Octubre de 2017 a les 12:15\\
+_Lloc_: Aula B3 de la Facultat de Matemàtiques i Informàtica de la UB
+
 ### Presentació curs 17/18: Live Hacking & trobada informal
 _Data_: Dimarts 10 d'Octubre de 2017 a les 13:15h\\
 _Lloc_: Aula B3 de la Facultat de Matemàtiques i Informàtica de la UB
