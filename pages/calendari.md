@@ -5,18 +5,19 @@ title: Calendari d'Activitats
 
 ## Pròximes
 
-### Taller: Introducció a l'Enginyeria Inversa amb Radare
-_Data_: Dissabte 2 de Desembre de 2017 a les 18:30\\
-_Lloc_: Escola Politècnica superior de la UdG, edifici P-II\\
-_Més informació_: [Hackday UdG](https://hackday.mlh.io/University-of-Girona-technical-school)
-
 ### Gestió segura de contrasenyes II: Nivell Desenvolupadors
-_Data_: Desembre de 2017\\
+_Data_: Aplaçat a Febrer de 2018\\
 _Lloc_: Facultat de Matemàtiques i Informàtica de la UB
 
 ---
 
 ## Passades
+
+### Taller: Introducció a l'Enginyeria Inversa amb Radare
+_Data_: Dissabte 2 de Desembre de 2017 a les 18:30\\
+_Lloc_: Escola Politècnica superior de la UdG, edifici P-II\\
+_Més informació_: [Hackday UdG](https://hackday.mlh.io/University-of-Girona-technical-school)
+
 ### Gestió segura de contrasenyes I: Nivell Usuaris
 _Data_: Dimecres 25 d'Octubre de 2017 a les 12:15\\
 _Lloc_: Aula B3 de la Facultat de Matemàtiques i Informàtica de la UB
