@@ -5,13 +5,24 @@ title: Calendari d'Activitats
 
 ## Pròximes
 
-### Gestió segura de contrasenyes II: Nivell Desenvolupadors
-_Data_: Aplaçat a Febrer de 2018\\
-_Lloc_: Facultat de Matemàtiques i Informàtica de la UB
+### Matefest - Infofest 2018
+_Data_: Dimecres 18 d'Abril de 2018\\
+_Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
+_Activitats a concretar_
+
+### Overdrive Hacking Conference 2018
+_Data_: 18, 19 i 20 d'Abril de 2018\\
+_Lloc_: Escola Politècnica superior de la UdG\\
+_Més informació_: [Overdrive Hacking Conference](http://overdriveconference.com)
 
 ---
 
 ## Passades
+
+### IoT, S stands for security
+_Data_: Dissabte 17 de Febrer de 2018, a les 18:00\\
+_Lloc_: Escola Politècnica superior de la UdG, edifici P-II\\
+_Material de la sessió_: [https://github.com/HackingLliure/IoT-hackdayudg](https://github.com/HackingLliure/IoT-hackdayudg)
 
 ### Taller: Introducció a l'Enginyeria Inversa amb Radare
 _Data_: Dissabte 2 de Desembre de 2017 a les 18:30\\
