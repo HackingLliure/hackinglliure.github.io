@@ -4,7 +4,7 @@ title: About
 hidden-title: true
 ---
 
-## Què és Hacking Lliure?
+## Què és Hacking Lliure? 
 
 Hacking Lliure és una associació de Hacking Ètic i Seguretat Informàtica gestada a les acaballes del 2016 per estudiants de Matemàtiques i Enginyeria Informàtica de la Universitat de Barcelona.
 
