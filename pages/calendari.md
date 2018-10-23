@@ -5,6 +5,29 @@ title: Calendari d'Activitats
 
 ## Pròximes
 
+### Xerrades exprés: desmitifiquem les paraules "virus" i "blockchain"
+_Data_: Dimecres 24 d'Octubre de 2018, a les 12:15\\
+_Lloc_: Facultat de Matemàtiques i Informàtica de la UB (aula B5)\\
+
+### Hacking Lliure Labs 2
+_Data_: Dimecres 24 d'Octubre de 2018, de 19:00 a 21:00
+_Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
+_Temàtica_: introducció al llenguatge Rust
+
+### Hacking Lliure Labs 3
+_Data_: Dimecres 7 de Novembre de 2018, de 19:00 a 21:00
+_Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
+_Temàtica a determinar_
+
+---
+
+## Passades
+
+### Hacking Lliure Labs 1
+_Data_: Dimecres 10 d'Octubre de 2018, de 19:00 a 21:00\\
+_Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
+_Resum sessió_: (https://github.com/HackingLliure/labs/blob/master/2018-10-10/lab1.md)
+
 ### Matefest - Infofest 2018
 _Data_: Dimecres 18 d'Abril de 2018\\
 _Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
@@ -14,10 +37,6 @@ _Activitats a concretar_
 _Data_: 18, 19 i 20 d'Abril de 2018\\
 _Lloc_: Escola Politècnica superior de la UdG\\
 _Més informació_: [Overdrive Hacking Conference](http://overdriveconference.com)
-
----
-
-## Passades
 
 ### IoT, S stands for security
 _Data_: Dissabte 17 de Febrer de 2018, a les 18:00\\
