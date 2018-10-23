@@ -26,7 +26,7 @@ _Temàtica a determinar_
 ### Hacking Lliure Labs 1
 _Data_: Dimecres 10 d'Octubre de 2018, de 19:00 a 21:00\\
 _Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
-_Resum sessió_: [https://github.com/HackingLliure/labs/blob/master/2018-10-10/lab1.md]
+_Resum sessió_: [https://github.com/HackingLliure/labs/blob/master/2018-10-10/lab1.md](https://github.com/HackingLliure/labs/blob/master/2018-10-10/lab1.md)
 
 ### Matefest - Infofest 2018
 _Data_: Dimecres 18 d'Abril de 2018\\
