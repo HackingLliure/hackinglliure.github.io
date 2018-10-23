@@ -7,7 +7,7 @@ title: Calendari d'Activitats
 
 ### Xerrades exprés: desmitifiquem les paraules "virus" i "blockchain"
 _Data_: Dimecres 24 d'Octubre de 2018, a les 12:15\\
-_Lloc_: Facultat de Matemàtiques i Informàtica de la UB (aula B5)\\
+_Lloc_: Facultat de Matemàtiques i Informàtica de la UB (aula B5)
 
 ### Hacking Lliure Labs 2
 _Data_: Dimecres 24 d'Octubre de 2018, de 19:00 a 21:00
