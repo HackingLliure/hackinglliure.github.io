@@ -31,7 +31,7 @@ _Resum sessió_: [https://github.com/HackingLliure/labs/blob/master/2018-10-10/l
 ### Matefest - Infofest 2018
 _Data_: Dimecres 18 d'Abril de 2018\\
 _Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
-_Activitats a concretar_
+Stand: expliquem i simulem una Blockchain
 
 ### Overdrive Hacking Conference 2018
 _Data_: 18, 19 i 20 d'Abril de 2018\\
