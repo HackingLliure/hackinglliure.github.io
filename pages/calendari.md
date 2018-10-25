@@ -17,7 +17,7 @@ _Temàtica a determinar_
 ### Hacking Lliure Labs 2
 _Data_: Dimecres 24 d'Octubre de 2018, de 19:00 a 21:00\\
 _Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
-_Temàtica_: introducció al llenguatge Rust
+_Temàtica_: introducció al llenguatge Rust\\
 _Resum sessió_: [https://github.com/HackingLliure/labs/blob/master/2018-10-24/lab2.md](https://github.com/HackingLliure/labs/blob/master/2018-10-24/lab2.md)
 
 ### Xerrades exprés: desmitifiquem les paraules "virus" i "blockchain"
