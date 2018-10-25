@@ -5,8 +5,6 @@ title: Calendari d'Activitats
 
 ## Pròximes
 
-
-
 ### Hacking Lliure Labs 3
 _Data_: Dimecres 7 de Novembre de 2018, de 19:00 a 21:00\\
 _Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
@@ -34,7 +32,7 @@ _Resum sessió_: [https://github.com/HackingLliure/labs/blob/master/2018-10-10/l
 ### Matefest - Infofest 2018
 _Data_: Dimecres 18 d'Abril de 2018\\
 _Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
-Stand: expliquem i simulem una Blockchain
+_Stand_: expliquem i simulem una Blockchain
 
 ### Overdrive Hacking Conference 2018
 _Data_: 18, 19 i 20 d'Abril de 2018\\
