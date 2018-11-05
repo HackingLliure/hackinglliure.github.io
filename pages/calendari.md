@@ -6,7 +6,7 @@ title: Calendari d'Activitats
 ## Pròximes
 
 ### Hacking Lliure Labs 3
-_Data_: Dimecres 7 de Novembre de 2018, de 19:00 a 21:00\\
+_Data_: Dimecres 14 de Novembre de 2018, de 19:00 a 21:00\\
 _Lloc_: Facultat de Matemàtiques i Informàtica de la UB\\
 _Temàtica a determinar_
 
