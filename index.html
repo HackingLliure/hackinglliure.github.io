@@ -1,19 +1,46 @@
----
-layout: default
----
+<!DOCTYPE HTML>
+<!--
+	Aerial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Hacking Lliure</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+				<!-- Header -->
+					<header id="header">
+						<h1>Hacking Lliure</h1>
+						<p><h2>Associació de Hacking Ètic i Seguretat Informàtica</h2></p>
+						<nav>
+							<ul>
+								<li><a href="https://twitter.com/HackingLliure" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://github.com/HackingLliure" class="icon brands fa-github"><span class="label">Github</span></a></li>
+								<li><a href="mailto:info@hackinglliure.org" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+						</nav>
+					</header>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <h4>{{ post.subtitle }}</h4>
+				<!-- Footer -->
+					<footer id="footer">
+						Template by: <a href="http://html5up.net">HTML5 UP</a>.
+					</footer>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Llegir més</a>
-    </article>
-  {% endfor %}
-</div>
+			</div>
+		</div>
+		<script>
+			window.onload = function() { document.body.classList.remove('is-preload'); }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
+</html>
